@@ -1,2 +1,2 @@
-# tp_7_soutieninfo
+# tp_7_soutieninfo lorenzo boyard 
 Mastermind 
